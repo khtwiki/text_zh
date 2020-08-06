@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2020/hello-world/"/>
+      <url>/2020/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>你好，世界！本页为测试页，可验证本站是否正常运行。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+    
+    <entry>
+      <title>关于此花联会</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[<p>此花联会是主要负责运营<a href="https://zh.kht.wiki/" title="此花亭中文Wiki">此花亭中文Wiki</a>、「关于此花亭的民间资料库」等网站，翻译与报道此花亭作品、作者、读者、商品等相关资料与消息；同时也在百合圈与ACGN领域有少量活动的非营利社团。<br>目前，我会正在建设<a href="https://zh.kht.wiki/" title="此花亭中文Wiki">此花亭中文Wiki</a>；已经开设微博、哔哩哔哩、Twitter账号，尝试以中文报道此花亭相关消息和发布此花亭同人作品的翻译。<br>如有意加入我们，请发邮件至<a href="mailto:&#106;&#x6f;&#105;&#110;&#x40;&#x6b;&#104;&#x74;&#46;&#x77;&#105;&#x6b;&#105;">&#106;&#x6f;&#105;&#110;&#x40;&#x6b;&#104;&#x74;&#46;&#x77;&#105;&#x6b;&#105;</a>，或向我们的微博、哔哩哔哩、Twitter账号发送私信。</p>]]></content>
+      
+    </entry>
+    
+    
+  
+</search>
